@@ -1,0 +1,6 @@
+li h1 {
+    color: white;
+}
+body {
+    background: white url("images/megan.jpg") no-repeat;
+}
