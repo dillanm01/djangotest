@@ -1,1 +1,2 @@
-<li><a href="/pretty/">{{ "I love megan" }}</a></li>
+<li><a href="pretty/">{{ "I love megan" }}</a></li>
+<li><a href="games/">{{ "I love games" }}</a></li>
